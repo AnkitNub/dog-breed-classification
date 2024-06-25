@@ -34,5 +34,5 @@ This notebook builds and end to end image calssifier using TensorFlow 2.0 and Te
    - Run through each cell to get optimal results.
 
 3. **Outcome:**
-   - Analyze the results, model performance, and insights derived from the regression analysis.
+   - Analyze the results, model performance, and insights derived from the images classified.
 
